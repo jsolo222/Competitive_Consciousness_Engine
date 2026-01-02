@@ -283,10 +283,10 @@ pip install scipy pandas seaborn
 If you use CCE in research, please cite:
 ```
 Competitive Consciousness Engine - PHASE2 (2025)
-Taurus Technologies / Aussie AI Labs
+TAURUS INDUSTRIES / Aussie AI Labs
 Enhanced neurological abstractions for consciousness modeling
 License
-Copyright (c) 2025 Taurus Technologies / Aussie AI Labs Pty Ltd
+Copyright (c) 2025 TAURUS INDUSTRIES / Aussie AI Labs Pty Ltd
 
 Contact
 For questions, issues, or collaboration:
@@ -294,6 +294,6 @@ For questions, issues, or collaboration:
 john_solo@taurusindustries.online
 
 
-Status: PHASE2 Complete ✅
+Status: PHASE 2 Complete ✅
 Version: 2.0.0
 Last Updated: January 2026
