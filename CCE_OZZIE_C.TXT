@@ -5,7 +5,7 @@
 // Copyright (c) 2025 Taurus Technologies / Aussie AI Labs Pty Ltd
 //---------------------------------------------------
 
-TAURUS TECHNOLOGIES - CCE PHASE2 UPGRADE - C++ IMPLEMENTATION
+TAURUS INDUSTRIES - CCE PHASE2 UPGRADE - C++ IMPLEMENTATION
 Enhanced Competitive Consciousness Engine with Neurological Abstractions
 
 PHASE2 Features:
