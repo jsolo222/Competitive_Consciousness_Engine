@@ -1,5 +1,5 @@
 """
-TAURUS TECHNOLOGIES - COMPETITIVE CONSCIOUSNESS ENGINE (CCE)
+TAURUS INDUSTRIES - COMPETITIVE CONSCIOUSNESS ENGINE (CCE)
 Pure consciousness mechanisms extracted from geometric theater
 
 Core consciousness through oscillator competition and emotional modulation.
